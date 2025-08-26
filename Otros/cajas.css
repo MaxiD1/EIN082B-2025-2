@@ -1,0 +1,8 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: #212121 solid 1px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
