@@ -1,15 +1,37 @@
-barra {
-    color: #BF0514;
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-pagina {
-    color: #BF0514;
+#bandera{
+    position: absolute;
+    up:20px;
 }
 
-musica {
-    color: #4A6BA1;
+#texto{
+    text-align: justify;
+    width: 200px;
+    position: absolute;
+    top: 20px;
+    left: 200px;
 }
 
-carro {
-    color: #c0c0c0;
+#division {
+    position: absolute;
+    background-color: #BF0514;
+    text-align: center;
+    color: #ffffff;
+    right: 20px;
+    top:100px;
+}
+
+#pagina {
+    background-color: #BF0514;
+}
+
+#musica {
+    background-color: #4A6BA1;
+}
+
+#carro {
+    background-color: #c0c0c0;
 }
